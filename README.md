@@ -293,3 +293,8 @@ and push your changes.
 ------------------------------------------------------------------------
 
 **SOLEFORM --- OWN YOUR GROUND.**
+What you can do from now on
+Whenever you make changes to SOLEFORM and want to save them on GitHub, run:
+git add .
+git commit -m "Describe your changes"
+git push
