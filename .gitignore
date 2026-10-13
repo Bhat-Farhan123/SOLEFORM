@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Local customer order data
+backend/data/orders.json
+backend/data/products.tmp

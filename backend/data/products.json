@@ -1,0 +1,897 @@
+[
+  {
+    "id": 1,
+    "name": "Form Runner 01",
+    "price": 6499,
+    "tag": "RUNNING INSPIRED",
+    "category": "Running",
+    "image": "/uploads/35c15383a0b046f4b5108001e19b6640.png",
+    "images": [
+      "/uploads/35c15383a0b046f4b5108001e19b6640.png"
+    ],
+    "alt": "Cream mesh running sneaker with black overlays and neon-lime accents.",
+    "tone": "stone",
+    "description": "A bold everyday runner with a sculpted sole, breathable mesh and signature neon-lime details.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 4,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Afterhours Low",
+    "price": 5999,
+    "tag": "COURT CLASSIC",
+    "category": "Court",
+    "image": "/images/afterhours-low.png",
+    "images": [
+      "/images/afterhours-low.png"
+    ],
+    "alt": "Black chunky everyday sneaker",
+    "tone": "sage",
+    "description": "A court-inspired low-top with an all-black finish, cushioned support and an easy everyday profile.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 4,
+      "8": 6,
+      "9": 5,
+      "10": 3,
+      "11": 2
+    },
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Terrain Suede",
+    "price": 7299,
+    "tag": "PREMIUM SUEDE",
+    "category": "Suede",
+    "image": "/images/terrain-suede.png",
+    "images": [
+      "/images/terrain-suede.png"
+    ],
+    "alt": "Sand suede sneaker with gum outsole",
+    "tone": "sand",
+    "description": "Soft sand-toned suede and a gum outsole bring a refined texture to this versatile silhouette.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 2,
+      "7": 3,
+      "8": 4,
+      "9": 4,
+      "10": 2,
+      "11": 1
+    },
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Everyday Mono",
+    "price": 5499,
+    "tag": "DAILY ESSENTIAL",
+    "category": "Everyday",
+    "image": "/images/everyday-mono.png",
+    "images": [
+      "/images/everyday-mono.png"
+    ],
+    "alt": "Minimal white everyday sneaker",
+    "tone": "mist",
+    "description": "A clean monochrome sneaker designed to pair with just about anything in your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 5,
+      "7": 7,
+      "8": 9,
+      "9": 7,
+      "10": 5,
+      "11": 3
+    },
+    "featured": true
+  },
+  {
+    "name": "Courtform High 01",
+    "price": 1999,
+    "category": "High-top",
+    "tag": "LIMITED EDITION",
+    "image": "/uploads/ae1a3dc5a1af4579b8bd61b4abf3c706.png",
+    "images": [
+      "/uploads/ae1a3dc5a1af4579b8bd61b4abf3c706.png"
+    ],
+    "alt": "Cream and black high-top sneaker with tan suede panels and a gum outsole.",
+    "tone": "stone",
+    "description": "A bold high-top silhouette with a clean cream upper, contrasting black overlays, tan suede detailing, and a gum rubber outsole. Designed to bring a premium streetwear edge to everyday outfits, with a padded collar and classic lace-up construction.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "stock": {
+      "6": 1,
+      "7": 4,
+      "8": 2,
+      "9": 1
+    },
+    "featured": false,
+    "id": 6
+  },
+  {
+    "id": 7,
+    "name": "Motion Runner 02",
+    "price": 6999,
+    "category": "Running",
+    "tag": "RUNNING INSPIRED",
+    "image": "/images/catalog/motion-runner-02.webp",
+    "images": [
+      "/images/catalog/motion-runner-02.webp"
+    ],
+    "alt": "Motion Runner 02 sneaker in a ocean colorway",
+    "tone": "stone",
+    "description": "Motion Runner 02 brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Pace Runner 03",
+    "price": 7499,
+    "category": "Running",
+    "tag": "PERFORMANCE SERIES",
+    "image": "/images/catalog/pace-runner-03.webp",
+    "images": [
+      "/images/catalog/pace-runner-03.webp"
+    ],
+    "alt": "Pace Runner 03 sneaker in a olive colorway",
+    "tone": "mist",
+    "description": "Pace Runner 03 brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Aero Runner",
+    "price": 6799,
+    "category": "Running",
+    "tag": "LIGHTWEIGHT COMFORT",
+    "image": "/images/catalog/aero-runner.webp",
+    "images": [
+      "/images/catalog/aero-runner.webp"
+    ],
+    "alt": "Aero Runner sneaker in a clay colorway",
+    "tone": "sage",
+    "description": "Aero Runner brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Velocity Knit",
+    "price": 6299,
+    "category": "Running",
+    "tag": "BREATHABLE KNIT",
+    "image": "/images/catalog/velocity-knit.webp",
+    "images": [
+      "/images/catalog/velocity-knit.webp"
+    ],
+    "alt": "Velocity Knit sneaker in a graphite colorway",
+    "tone": "sand",
+    "description": "Velocity Knit brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 11,
+    "name": "Trackline Runner",
+    "price": 7199,
+    "category": "Running",
+    "tag": "DAILY PERFORMANCE",
+    "image": "/images/catalog/trackline-runner.webp",
+    "images": [
+      "/images/catalog/trackline-runner.webp"
+    ],
+    "alt": "Trackline Runner sneaker in a ice colorway",
+    "tone": "stone",
+    "description": "Trackline Runner brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 12,
+    "name": "Courtline 02",
+    "price": 6499,
+    "category": "Court",
+    "tag": "COURT CLASSIC",
+    "image": "/images/catalog/courtline-02.webp",
+    "images": [
+      "/images/catalog/courtline-02.webp"
+    ],
+    "alt": "Courtline 02 sneaker in a burgundy colorway",
+    "tone": "mist",
+    "description": "Courtline 02 brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 13,
+    "name": "Retro Court 01",
+    "price": 6999,
+    "category": "Court",
+    "tag": "RETRO COURT",
+    "image": "/images/catalog/retro-court-01.webp",
+    "images": [
+      "/images/catalog/retro-court-01.webp"
+    ],
+    "alt": "Retro Court 01 sneaker in a chalk colorway",
+    "tone": "sage",
+    "description": "Retro Court 01 brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 14,
+    "name": "Courtform Mono",
+    "price": 5799,
+    "category": "Court",
+    "tag": "CLEAN COURT STYLE",
+    "image": "/images/catalog/courtform-mono.webp",
+    "images": [
+      "/images/catalog/courtform-mono.webp"
+    ],
+    "alt": "Courtform Mono sneaker in a forest colorway",
+    "tone": "mist",
+    "description": "Courtform Mono brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 15,
+    "name": "Baseline Low",
+    "price": 6199,
+    "category": "Court",
+    "tag": "EVERYDAY COURT",
+    "image": "/images/catalog/baseline-low.webp",
+    "images": [
+      "/images/catalog/baseline-low.webp"
+    ],
+    "alt": "Baseline Low sneaker in a cobalt colorway",
+    "tone": "stone",
+    "description": "Baseline Low brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 16,
+    "name": "Night Shift Court",
+    "price": 7299,
+    "category": "Court",
+    "tag": "AFTER-DARK EDITION",
+    "image": "/images/catalog/night-shift-court.webp",
+    "images": [
+      "/images/catalog/night-shift-court.webp"
+    ],
+    "alt": "Night Shift Court sneaker in a sand colorway",
+    "tone": "sage",
+    "description": "Night Shift Court brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 17,
+    "name": "Earth Suede 02",
+    "price": 7499,
+    "category": "Suede",
+    "tag": "PREMIUM SUEDE",
+    "image": "/images/catalog/earth-suede-02.webp",
+    "images": [
+      "/images/catalog/earth-suede-02.webp"
+    ],
+    "alt": "Earth Suede 02 sneaker in a moss colorway",
+    "tone": "sand",
+    "description": "Earth Suede 02 brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 18,
+    "name": "Desert Low",
+    "price": 6999,
+    "category": "Suede",
+    "tag": "DESERT TONES",
+    "image": "/images/catalog/desert-low.webp",
+    "images": [
+      "/images/catalog/desert-low.webp"
+    ],
+    "alt": "Desert Low sneaker in a stone colorway",
+    "tone": "sand",
+    "description": "Desert Low brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 19,
+    "name": "Stone Suede",
+    "price": 7799,
+    "category": "Suede",
+    "tag": "TEXTURED ESSENTIAL",
+    "image": "/images/catalog/stone-suede.webp",
+    "images": [
+      "/images/catalog/stone-suede.webp"
+    ],
+    "alt": "Stone Suede sneaker in a rust colorway",
+    "tone": "stone",
+    "description": "Stone Suede brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 20,
+    "name": "Dune Walker",
+    "price": 7199,
+    "category": "Suede",
+    "tag": "SOFT EARTH PALETTE",
+    "image": "/images/catalog/dune-walker.webp",
+    "images": [
+      "/images/catalog/dune-walker.webp"
+    ],
+    "alt": "Dune Walker sneaker in a plum colorway",
+    "tone": "sand",
+    "description": "Dune Walker brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 21,
+    "name": "Canyon Suede",
+    "price": 7599,
+    "category": "Suede",
+    "tag": "PREMIUM MATERIALS",
+    "image": "/images/catalog/canyon-suede.webp",
+    "images": [
+      "/images/catalog/canyon-suede.webp"
+    ],
+    "alt": "Canyon Suede sneaker in a midnight colorway",
+    "tone": "sage",
+    "description": "Canyon Suede brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 22,
+    "name": "Streetform Low",
+    "price": 5799,
+    "category": "Everyday",
+    "tag": "STREET ESSENTIAL",
+    "image": "/images/catalog/streetform-low.webp",
+    "images": [
+      "/images/catalog/streetform-low.webp"
+    ],
+    "alt": "Streetform Low sneaker in a silver colorway",
+    "tone": "mist",
+    "description": "Streetform Low brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 23,
+    "name": "Cloudstep Knit",
+    "price": 6299,
+    "category": "Everyday",
+    "tag": "ALL-DAY COMFORT",
+    "image": "/images/catalog/cloudstep-knit.webp",
+    "images": [
+      "/images/catalog/cloudstep-knit.webp"
+    ],
+    "alt": "Cloudstep Knit sneaker in a sage colorway",
+    "tone": "mist",
+    "description": "Cloudstep Knit brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 24,
+    "name": "Highline Street",
+    "price": 7999,
+    "category": "Everyday",
+    "tag": "CITY ROTATION",
+    "image": "/images/catalog/highline-street.webp",
+    "images": [
+      "/images/catalog/highline-street.webp"
+    ],
+    "alt": "Highline Street sneaker in a rose colorway",
+    "tone": "stone",
+    "description": "Highline Street brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 25,
+    "name": "Daily Form 02",
+    "price": 5599,
+    "category": "Everyday",
+    "tag": "DAILY ESSENTIAL",
+    "image": "/images/catalog/daily-form-02.webp",
+    "images": [
+      "/images/catalog/daily-form-02.webp"
+    ],
+    "alt": "Daily Form 02 sneaker in a amber colorway",
+    "tone": "mist",
+    "description": "Daily Form 02 brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 26,
+    "name": "Mono Flex",
+    "price": 5999,
+    "category": "Everyday",
+    "tag": "MINIMAL BY DESIGN",
+    "image": "/images/catalog/mono-flex.webp",
+    "images": [
+      "/images/catalog/mono-flex.webp"
+    ],
+    "alt": "Mono Flex sneaker in a mono colorway",
+    "tone": "stone",
+    "description": "Mono Flex brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 27,
+    "name": "Midnight High",
+    "price": 7799,
+    "category": "High-top",
+    "tag": "HIGH-TOP SERIES",
+    "image": "/images/catalog/midnight-high.webp",
+    "images": [
+      "/images/catalog/midnight-high.webp"
+    ],
+    "alt": "Midnight High sneaker in a teal colorway",
+    "tone": "sage",
+    "description": "Midnight High brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 28,
+    "name": "Canvas Rise",
+    "price": 6799,
+    "category": "High-top",
+    "tag": "CANVAS COLLECTION",
+    "image": "/images/catalog/canvas-rise.webp",
+    "images": [
+      "/images/catalog/canvas-rise.webp"
+    ],
+    "alt": "Canvas Rise sneaker in a violet colorway",
+    "tone": "sand",
+    "description": "Canvas Rise brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 29,
+    "name": "Volt High 02",
+    "price": 8199,
+    "category": "Limited edition",
+    "tag": "LIMITED RUN",
+    "image": "/images/catalog/volt-high-02.webp",
+    "images": [
+      "/images/catalog/volt-high-02.webp"
+    ],
+    "alt": "Volt High 02 sneaker in a cream colorway",
+    "tone": "stone",
+    "description": "Volt High 02 brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  },
+  {
+    "id": 30,
+    "name": "Studio Edition 01",
+    "price": 8999,
+    "category": "Limited edition",
+    "tag": "STUDIO EXCLUSIVE",
+    "image": "/images/catalog/studio-edition-01.webp",
+    "images": [
+      "/images/catalog/studio-edition-01.webp"
+    ],
+    "alt": "Studio Edition 01 sneaker in a slate colorway",
+    "tone": "sage",
+    "description": "Studio Edition 01 brings considered materials, everyday comfort and a distinctive SOLEFORM silhouette to your rotation.",
+    "sizes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 6,
+      "9": 6,
+      "10": 4,
+      "11": 2
+    },
+    "featured": false
+  }
+]
