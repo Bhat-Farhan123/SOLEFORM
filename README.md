@@ -298,3 +298,14 @@ Whenever you make changes to SOLEFORM and want to save them on GitHub, run:
 git add .
 git commit -m "Describe your changes"
 git push
+
+
+##**SOLEFORM Storefront **:
+https://soleform-plum.vercel.app/ 
+##SOLEFORM Admin Panel :
+https://soleform-plum.vercel.app/admin 
+
+admin password : farhan
+
+
+
